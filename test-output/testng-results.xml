@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8842" started-at="2021-12-20T14:07:08Z" finished-at="2021-12-20T14:07:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8842" started-at="2021-12-20T14:07:08Z" finished-at="2021-12-20T14:07:17Z">
+      <class name="com.assertionproject.TestAssertionProject">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.assertionproject.TestAssertionProject@51efea79]" name="beforeTest" is-config="true" duration-ms="8615" started-at="2021-12-20T14:07:08Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="assertEqualsTest()[pri:1, instance:com.assertionproject.TestAssertionProject@51efea79]" name="assertEqualsTest" duration-ms="72" started-at="2021-12-20T14:07:17Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertEqualsTest -->
+        <test-method status="PASS" signature="assertNotEqualsTest()[pri:2, instance:com.assertionproject.TestAssertionProject@51efea79]" name="assertNotEqualsTest" duration-ms="36" started-at="2021-12-20T14:07:17Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotEqualsTest -->
+        <test-method status="PASS" signature="assertNullTest()[pri:3, instance:com.assertionproject.TestAssertionProject@51efea79]" name="assertNullTest" duration-ms="3" started-at="2021-12-20T14:07:17Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNullTest -->
+        <test-method status="PASS" signature="assertNotNullTest()[pri:4, instance:com.assertionproject.TestAssertionProject@51efea79]" name="assertNotNullTest" duration-ms="2" started-at="2021-12-20T14:07:17Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNotNullTest -->
+        <test-method status="PASS" signature="assertTrueTest()[pri:5, instance:com.assertionproject.TestAssertionProject@51efea79]" name="assertTrueTest" duration-ms="29" started-at="2021-12-20T14:07:17Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertTrueTest -->
+        <test-method status="PASS" signature="assertFalseTest()[pri:6, instance:com.assertionproject.TestAssertionProject@51efea79]" name="assertFalseTest" duration-ms="32" started-at="2021-12-20T14:07:17Z" finished-at="2021-12-20T14:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertFalseTest -->
+      </class> <!-- com.assertionproject.TestAssertionProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
